@@ -10,5 +10,5 @@ If you need to contact me for a question, a proposal or an offer, you can do it 
 - [Discord](https://discord.gg/)
 - [Mail](mailto:jones.cianv@outlook.fr)
 
-## 🐉Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CianCode&langs_count=8)](https://github.com/CianCode/github-readme-stats)
+## 🐉Stats 
+![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CianCode&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CianCode&layout=compact)](https://github.com/CianCode/github-readme-stats)
