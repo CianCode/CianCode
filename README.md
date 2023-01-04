@@ -1,5 +1,5 @@
 ## 😎 Hello, i'm Cian !
-I am a belgian computer technology who loves to program things on his computer. 
+I am a belgian computer technology student, who loves to program things on his computer. 
 I program a lot on my time in **Html** / **CSS** / **Java Script**, and at the moment I'm working on website.
 
   
