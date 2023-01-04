@@ -7,7 +7,7 @@ I program a lot on my time in **Html** / **CSS** / **Java Script**, and at the m
 
 ## 📞 Need to contact me?
 If you need to contact me for a question, a proposal or an offer, you can do it through my networks:
-- [Discord](https://discord.gg/)
+- [Discord](https://discord.gg/pfF6RbBsd8)
 - [Mail](mailto:jones.cianv@outlook.fr)
 
 ## 🐉Stats 
