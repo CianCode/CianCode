@@ -10,7 +10,7 @@
 
 <h1 align="center"> Hey there!</h1>
 
-<p align="center">I am a javascript, java and css developer with two years of experience in the field of technology. I have strong object-oriented programming skills and have used popular frameworks like Angular, React, and Spring. Additionally, I have experience in database implementation and have worked with MySQL, MongoDB and Oracle.</p>
+<p align="center">I'm passionate about technology and constantly seek to expand my skills. From building responsive websites to diving into data science, I embrace challenges with enthusiasm. Throughout my academic journey, I've honed problem-solving skills and collaborated on diverse projects. I thrive in creative environments and love connecting with tech enthusiasts at hackathons and coding competitions. Check out my GitHub for projects and feel free to reach out for collaboration!</p>
 
 
 <h2 align="center">Interests</h2>
