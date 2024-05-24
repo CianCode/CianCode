@@ -27,7 +27,7 @@
 
 <p align="center">
   <a target="_blank"href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a target="_blank"href="jonescian.com"><img alt="My Portfolio" title="Twitter" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a target="_blank"href="https://jonescian.com"><img alt="My Portfolio" title="Twitter" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
 
